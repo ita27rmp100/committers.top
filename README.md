@@ -1,5 +1,5 @@
 # Most Active GitHub Users Counter
-
+  > The project is currently stopped and I'm trying yo solve this problem ##
 This CLI tool queries the GitHub GraphQL API for users and ranks them according to number of contributions. Several preset locations are provided.
 
 **GitHub Token**
